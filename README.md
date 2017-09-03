@@ -1,2 +1,2 @@
 # GameofLife
-Terminal based version of Conway's Game of Life
+A C# terminal based version of Conway's Game of Life
