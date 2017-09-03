@@ -39,7 +39,7 @@ namespace GameOfLife
 
         void Start()
         {
-            for (int i = 0; i < 100; i++)
+            while(true)
             {
                 ShowBoard();
                 System.Threading.Thread.Sleep(sleepTime);
